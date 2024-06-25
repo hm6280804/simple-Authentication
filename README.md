@@ -22,11 +22,8 @@ This project is a simple user authentication system built with Laravel. It provi
      - Inner Page: Navigates to a protected inner page accessible only to authenticated users.
      - Logout: Logs the user out of the application, ending their session.
 
-## Technology Used
+Technology Used
 
-- **Laravel:** The PHP framework used to build the authentication system.
-- **Bootstrap:** For responsive and elegant UI design.
+- Laravel: The PHP framework used to build the authentication system.
+- Bootstrap: For responsive and elegant UI design.
 
----
-
-Feel free to customize this description further to fit your specific project details and preferences.
